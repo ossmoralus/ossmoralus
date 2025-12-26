@@ -23,6 +23,7 @@
 - 🌱 Sempre aprendendo e explorando novas tecnologias
 - 🔧 Focado em DevOps e boas práticas de desenvolvimento
 - 🎯 Transformando hobby em carreira profissional
+- 💼 Trabalhando CLT _(enquanto penso em largar tudo pra ir morar na roça com os bichos e as plantas)_
 
 ### 💭 Minha Filosofia
 
