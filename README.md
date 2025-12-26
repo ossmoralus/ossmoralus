@@ -6,10 +6,6 @@
 
 ### Desenvolvedor Full Stack | Entusiasta de Tecnologia | Designer UI/UX
 
-<p align="center">
-Sou um desenvolvedor por hobby, no momento busco masterizar as habilidades que já tenho e desenvolver novas, onde talvez eu venha a fazer disso uma profissão...
-</p>
-
 ![Badge](https://galeria-drab.vercel.app/api/svg/badges/decorativos/badge-entusiasta.svg?w=180)
 ![Badge](https://galeria-drab.vercel.app/api/svg/badges/decorativos/badge-full-stack.svg?w=180)
 ![Badge](https://galeria-drab.vercel.app/api/svg/badges/decorativos/badge-ui-ux.svg?w=180)
@@ -21,11 +17,16 @@ Sou um desenvolvedor por hobby, no momento busco masterizar as habilidades que j
 
 ## 🚀 Sobre Mim
 
+- 🛠️ 27 anos, cristão em constante aprendizado
 - 💻 Desenvolvedor Full Stack apaixonado por criar soluções inovadoras
 - 🎨 Interessado em UI/UX e experiência do usuário
 - 🌱 Sempre aprendendo e explorando novas tecnologias
 - 🔧 Focado em DevOps e boas práticas de desenvolvimento
 - 🎯 Transformando hobby em carreira profissional
+
+### 💭 Minha Filosofia
+
+> Me imagino como se já tivesse alcançado meus objetivos. Assim, não importa onde eu esteja, sei que ainda não estou no lugar certo, porque já tenho um plano claro de onde quero chegar. Essa visão me guia e me mantém focado no caminho.
 
 ## 🛠️ Tecnologias & Ferramentas
 
