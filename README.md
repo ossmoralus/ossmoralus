@@ -87,7 +87,15 @@
 
 ## 📫 Como me encontrar
 
-#### No momento não da pra me encontrar...
+<div align="center">
+
+### Entre em contato comigo:
+
+[![Email](https://img.shields.io/badge/Email-ossmoralus%40proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ossmoralus@proton.me)
+
+📧 **ossmoralus@proton.me**
+
+</div>
 
 ---
 
