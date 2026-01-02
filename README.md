@@ -4,7 +4,9 @@
 
 # 👋 Olá, eu sou o Ítalo!
 
-### Desenvolvedor Full Stack | Entusiasta de Tecnologia | Designer UI/UX
+### Desenvolvedor Full Stack • UI/UX Designer • DevOps
+
+<br>
 
 ![Badge](https://galeria-drab.vercel.app/api/svg/badges/decorativos/badge-entusiasta.svg?w=180)
 ![Badge](https://galeria-drab.vercel.app/api/svg/badges/decorativos/badge-full-stack.svg?w=180)
@@ -13,26 +15,23 @@
 
 </div>
 
----
+<br>
 
 ## 🚀 Sobre Mim
 
-- 🛠️ 27 anos, cristão em constante aprendizado
-- 💻 Desenvolvedor Full Stack apaixonado por criar soluções inovadoras
-- 🎨 Interessado em UI/UX e experiência do usuário
-- 🌱 Sempre aprendendo e explorando novas tecnologias
-- 🔧 Focado em DevOps e boas práticas de desenvolvimento
-- 🎯 Transformando hobby em carreira profissional
-- 💼 Trabalhando CLT _(enquanto penso em largar tudo pra ir morar na roça com os bichos e as plantas)_
+Tenho 27 anos, sou cristão e estou em constante aprendizado. Sou desenvolvedor Full Stack apaixonado por criar soluções que fazem diferença seja no código, no design ou na experiência do usuário.
 
-### 💭 Minha Filosofia
+Acredito que tecnologia é uma ferramenta poderosa para transformar ideias em realidade. Meu foco está em entregar projetos bem estruturados, com código limpo e interfaces que proporcionam uma experiência fluida.
 
-> Me imagino como se já tivesse alcançado meus objetivos. Assim, não importa onde eu esteja, sei que ainda não estou no lugar certo, porque já tenho um plano claro de onde quero chegar. Essa visão me guia e me mantém focado no caminho.
+> 💭 **Minha filosofia:** Me imagino como se já tivesse alcançado meus objetivos. Assim, não importa onde eu esteja, sei que ainda não estou no lugar certo, porque já tenho um plano claro de onde quero chegar. Essa visão me guia e me mantém focado no caminho.
 
-## 🛠️ Tecnologias & Ferramentas
+<br>
 
-### Frontend
+## 🛠️ Stack Tecnológica
 
+<details open>
+<summary><strong>🎨 Frontend</strong></summary>
+<br>
 <div align="center">
 
 ![HTML5](https://galeria-drab.vercel.app/api/svg/badges/skills/badge-html.svg?w=120)
@@ -45,9 +44,11 @@
 ![Sass](https://galeria-drab.vercel.app/api/svg/badges/skills/badge-sass.svg?w=120)
 
 </div>
+</details>
 
-### Backend
-
+<details open>
+<summary><strong>⚙️ Backend</strong></summary>
+<br>
 <div align="center">
 
 ![Node.js](https://galeria-drab.vercel.app/api/svg/badges/skills/badge-nodejs.svg?w=120)
@@ -56,9 +57,11 @@
 ![PHP](https://galeria-drab.vercel.app/api/svg/badges/skills/badge-php.svg?w=120)
 
 </div>
+</details>
 
-### Banco de Dados
-
+<details open>
+<summary><strong>🗄️ Banco de Dados</strong></summary>
+<br>
 <div align="center">
 
 ![MongoDB](https://galeria-drab.vercel.app/api/svg/badges/skills/badge-mongodb.svg?w=120)
@@ -68,9 +71,11 @@
 ![Prisma](https://galeria-drab.vercel.app/api/svg/badges/skills/badge-prisma.svg?w=120)
 
 </div>
+</details>
 
-### DevOps & Ferramentas
-
+<details open>
+<summary><strong>🔧 DevOps & Ferramentas</strong></summary>
+<br>
 <div align="center">
 
 ![Docker](https://galeria-drab.vercel.app/api/svg/badges/skills/badge-docker.svg?w=120)
@@ -82,21 +87,33 @@
 ![Figma](https://galeria-drab.vercel.app/api/svg/badges/skills/badge-figma.svg?w=120)
 
 </div>
+</details>
 
----
+<br>
 
-## 📫 Como me encontrar
+## 🤝 Vamos Trabalhar Juntos?
+
+Estou disponível para projetos freelance, parcerias e oportunidades de colaboração. Se você precisa de:
+
+| 💼 Serviço                | 📋 O que posso fazer                                                |
+| ------------------------- | ------------------------------------------------------------------- |
+| **Desenvolvimento Web**   | Sites, landing pages, sistemas web completos                        |
+| **Aplicações Full Stack** | Do banco de dados à interface. desenvolvimento de ponta a ponta    |
+| **UI/UX Design**          | Interfaces modernas, intuitivas e focadas na experiência do usuário |
+| **Consultoria DevOps**    | Automação, deploy, CI/CD e boas práticas de infraestrutura          |
 
 <div align="center">
 
-### Entre em contato comigo
+### 📬 Entre em contato, vamos transformar sua ideia em realidade!
+
+<br>
 
 [![Email](https://img.shields.io/badge/Email-ossmoralus%40proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ossmoralus@proton.me)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+55%2037%2099855--3430-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5537998553430)
 
-**Email:** ossmoralus@proton.me • **WhatsApp:** +55 37 99855-3430
-
 </div>
+
+<br>
 
 ---
 
@@ -104,16 +121,12 @@
 
 _"O código é poesia, e cada linha é uma oportunidade de criar algo extraordinário."_
 
+<br>
+
 ![Visitantes](https://galeria-drab.vercel.app/api/visitors/ossmoralus/badge.svg?label=visitantes&shape=rounded&labelColor=0f172a&valueColor=7c3aed&textColor=ffffff)
 
-</div>
+<br>
 
----
-
-<div align="center">
-
-### ⭐ Badges da [Galeria Moralus OSS](https://galeria-drab.vercel.app)
-
-_Recursos gratuitos para desenvolvedores_
+#### ⭐ Badges da [Galeria Moralus OSS](https://galeria-drab.vercel.app) _Recursos gratuitos para desenvolvedores_
 
 </div>
