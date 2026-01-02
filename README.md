@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](https://galeria-drab.vercel.app/api/svg/banner/capa-1.svg)
+![banner/capa-10.svg](https://galeria-drab.vercel.app/api/svg/banner/capa-10.svg)
 
 # 👋 Olá, eu sou o Ítalo!
 
@@ -89,15 +89,12 @@
 
 <div align="center">
 
-### Entre em contato comigo:
+### Entre em contato comigo
 
 [![Email](https://img.shields.io/badge/Email-ossmoralus%40proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ossmoralus@proton.me)
-
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+55%2037%2099855--3430-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5537998553430)
 
-📧 **ossmoralus@proton.me**
-
-📱 **WhatsApp:** +55 37 99855-3430
+**Email:** ossmoralus@proton.me • **WhatsApp:** +55 37 99855-3430
 
 </div>
 
@@ -107,7 +104,7 @@
 
 _"O código é poesia, e cada linha é uma oportunidade de criar algo extraordinário."_
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ossmoralus)
+![Visitantes](https://galeria-drab.vercel.app/api/visitors/ossmoralus/badge.svg?label=visitantes&shape=rounded&labelColor=0f172a&valueColor=7c3aed&textColor=ffffff)
 
 </div>
 
