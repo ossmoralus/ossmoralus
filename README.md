@@ -100,10 +100,10 @@ Acredito que tecnologia é uma ferramenta poderosa para transformar ideias em re
 <table>
   <tr>
     <td width="50%" align="center">
-      <img alt="GitHub Top Languages" src="https://galeria-drab.vercel.app/api/github-langs/ossmoralus?theme=neon&height=300" />
+      <img alt="GitHub Top Languages" src="https://galeria-drab.vercel.app/api/github-langs/ossmoralus?theme=neon&height=250" />
     </td>
     <td width="50%" align="center">
-      <img alt="GitHub Stats" src="https://galeria-drab.vercel.app/api/github-stats/ossmoralus?theme=neon&height=300" />
+      <img alt="GitHub Stats" src="https://galeria-drab.vercel.app/api/github-stats/ossmoralus?theme=neon&height=250" />
     </td>
   </tr>
 </table>
