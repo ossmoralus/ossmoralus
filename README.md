@@ -100,6 +100,7 @@ Acredito que tecnologia é uma ferramenta poderosa para transformar ideias em re
 <div align="center">
 
 ![GitHub Stats](https://galeria-drab.vercel.app/api/github-stats/ossmoralus?theme=florest)
+![GitHub Top Languages](http://localhost:3000/api/github-langs/seu-usuario?theme=neon)
 
 </div>
 
