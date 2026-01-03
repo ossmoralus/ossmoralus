@@ -1,12 +1,16 @@
 <div align="center">
 
-![banner/capa-10.svg](https://galeria-drab.vercel.app/api/svg/banner/capa-10.svg)
+![Banner](https://galeria-drab.vercel.app/api/svg/banner/capa-10.svg)
 
 # 👋 Olá, eu sou o Ítalo!
 
-### Desenvolvedor Full Stack • UI/UX Designer • DevOps
+**Desenvolvedor Full Stack** • **UI/UX Designer** • **DevOps**
 
-<br>
+[![Email](https://img.shields.io/badge/Email-ossmoralus%40proton.me-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:ossmoralus@proton.me)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5537998553430)
+[![GitHub](https://img.shields.io/badge/GitHub-ossmoralus-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ossmoralus)
+
+---
 
 ![Badge](https://galeria-drab.vercel.app/api/svg/badges/decorativos/badge-entusiasta.svg?w=180)
 ![Badge](https://galeria-drab.vercel.app/api/svg/badges/decorativos/badge-full-stack.svg?w=180)
@@ -15,17 +19,17 @@
 
 </div>
 
-<br>
+---
 
 ## 🚀 Sobre Mim
 
-Tenho 27 anos, sou cristão e estou em constante aprendizado. Sou desenvolvedor Full Stack apaixonado por criar soluções que fazem diferença seja no código, no design ou na experiência do usuário.
+Tenho 27 anos, sou cristão e estou em constante aprendizado. Sou desenvolvedor Full Stack apaixonado por criar soluções que fazem diferença, seja no código, no design ou na experiência do usuário.
 
 Acredito que tecnologia é uma ferramenta poderosa para transformar ideias em realidade. Meu foco está em entregar projetos bem estruturados, com código limpo e interfaces que proporcionam uma experiência fluida.
 
-> 💭 **Minha filosofia:** Me imagino como se já tivesse alcançado meus objetivos. Assim, não importa onde eu esteja, sei que ainda não estou no lugar certo, porque já tenho um plano claro de onde quero chegar. Essa visão me guia e me mantém focado no caminho.
+> 💭 **Minha filosofia:** *"Me imagino como se já tivesse alcançado meus objetivos. Assim, não importa onde eu esteja, sei que ainda não estou no lugar certo, porque já tenho um plano claro de onde quero chegar."*
 
-<br>
+---
 
 ## 🛠️ Stack Tecnológica
 
@@ -89,44 +93,52 @@ Acredito que tecnologia é uma ferramenta poderosa para transformar ideias em re
 </div>
 </details>
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://galeria-drab.vercel.app/api/github-stats/ossmoralus?theme=dark)
+
+</div>
+
+---
+
 <br>
 
 ## 🤝 Vamos Trabalhar Juntos?
 
-Estou disponível para projetos freelance, parcerias e oportunidades de colaboração. Se você precisa de:
+Estou disponível para projetos freelance, parcerias e oportunidades de colaboração.
 
-| 💼 Serviço                | 📋 O que posso fazer                                                |
-| ------------------------- | ------------------------------------------------------------------- |
-| **Desenvolvimento Web**   | Sites, landing pages, sistemas web completos                        |
-| **Aplicações Full Stack** | Do banco de dados à interface. desenvolvimento de ponta a ponta    |
-| **UI/UX Design**          | Interfaces modernas, intuitivas e focadas na experiência do usuário |
-| **Consultoria DevOps**    | Automação, deploy, CI/CD e boas práticas de infraestrutura          |
+| 💼 Serviço | 📋 O que posso fazer |
+|:-----------|:---------------------|
+| **Desenvolvimento Web** | Sites, landing pages, sistemas web completos |
+| **Aplicações Full Stack** | Do banco de dados à interface, desenvolvimento de ponta a ponta |
+| **UI/UX Design** | Interfaces modernas, intuitivas e focadas na experiência do usuário |
+| **Consultoria DevOps** | Automação, deploy, CI/CD e boas práticas de infraestrutura |
 
 <div align="center">
 
-### 📬 Entre em contato, vamos transformar sua ideia em realidade!
-
-<br>
+### 📬 Entre em contato!
 
 [![Email](https://img.shields.io/badge/Email-ossmoralus%40proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ossmoralus@proton.me)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+55%2037%2099855--3430-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5537998553430)
 
 </div>
 
-<br>
-
 ---
 
 <div align="center">
 
-_"O código é poesia, e cada linha é uma oportunidade de criar algo extraordinário."_
+*"O código é poesia, e cada linha é uma oportunidade de criar algo extraordinário."*
 
 <br>
 
 ![Visitantes](https://galeria-drab.vercel.app/api/visitors/ossmoralus/badge.svg?label=visitantes&shape=rounded&labelColor=0f172a&valueColor=7c3aed&textColor=ffffff)
 
-<br>
+---
 
-#### ⭐ Badges da [Galeria Moralus OSS](https://galeria-drab.vercel.app) _Recursos gratuitos para desenvolvedores_
+<sub>⭐ Badges e banners da <a href="https://galeria-drab.vercel.app">Galeria Moralus OSS</a> Recursos gratuitos para desenvolvedores</sub>
 
 </div>
