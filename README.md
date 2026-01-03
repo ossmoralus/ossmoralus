@@ -97,8 +97,16 @@ Acredito que tecnologia é uma ferramenta poderosa para transformar ideias em re
 
 <div align="center">
 
-![GitHub Top Languages](https://galeria-drab.vercel.app/api/github-langs/ossmoralus?theme=neon)
-![GitHub Stats](https://galeria-drab.vercel.app/api/github-stats/ossmoralus?theme=neon)
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img alt="GitHub Top Languages" src="https://galeria-drab.vercel.app/api/github-langs/ossmoralus?theme=neon&height=300" />
+    </td>
+    <td width="50%" align="center">
+      <img alt="GitHub Stats" src="https://galeria-drab.vercel.app/api/github-stats/ossmoralus?theme=neon&height=300" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -131,7 +139,5 @@ Estou disponível para projetos freelance, parcerias e oportunidades de colabora
 *"O código é poesia, e cada linha é uma oportunidade de criar algo extraordinário."*
 
 ![Visitantes](https://galeria-drab.vercel.app/api/visitors/ossmoralus/badge.svg?label=visitantes&shape=rounded&labelColor=0f172a&valueColor=7c3aed&textColor=ffffff)
-
-<sub>⭐ Badges e banners da <a href="https://galeria-drab.vercel.app">Galeria Moralus OSS</a> — recursos gratuitos para desenvolvedores.</sub>
 
 </div>
