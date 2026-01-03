@@ -10,8 +10,6 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5537998553430)
 [![GitHub](https://img.shields.io/badge/GitHub-ossmoralus-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ossmoralus)
 
----
-
 ![Badge](https://galeria-drab.vercel.app/api/svg/badges/decorativos/badge-entusiasta.svg?w=180)
 ![Badge](https://galeria-drab.vercel.app/api/svg/badges/decorativos/badge-full-stack.svg?w=180)
 ![Badge](https://galeria-drab.vercel.app/api/svg/badges/decorativos/badge-ui-ux.svg?w=180)
@@ -99,14 +97,12 @@ Acredito que tecnologia é uma ferramenta poderosa para transformar ideias em re
 
 <div align="center">
 
-![GitHub Stats](https://galeria-drab.vercel.app/api/github-stats/ossmoralus?theme=dark&width=230)
-![GitHub Top Languages](https://galeria-drab.vercel.app/api/github-langs/ossmoralus?theme=dark&width=230)
+![GitHub Top Languages](https://galeria-drab.vercel.app/api/github-langs/ossmoralus?theme=neon)
+![GitHub Stats](https://galeria-drab.vercel.app/api/github-stats/ossmoralus?theme=neon)
 
 </div>
 
 ---
-
-<br>
 
 ## 🤝 Vamos Trabalhar Juntos?
 
@@ -134,12 +130,8 @@ Estou disponível para projetos freelance, parcerias e oportunidades de colabora
 
 *"O código é poesia, e cada linha é uma oportunidade de criar algo extraordinário."*
 
-<br>
-
 ![Visitantes](https://galeria-drab.vercel.app/api/visitors/ossmoralus/badge.svg?label=visitantes&shape=rounded&labelColor=0f172a&valueColor=7c3aed&textColor=ffffff)
 
----
-
-<sub>⭐ Badges e banners da <a href="https://galeria-drab.vercel.app">Galeria Moralus OSS</a> Recursos gratuitos para desenvolvedores</sub>
+<sub>⭐ Badges e banners da <a href="https://galeria-drab.vercel.app">Galeria Moralus OSS</a> — recursos gratuitos para desenvolvedores.</sub>
 
 </div>
