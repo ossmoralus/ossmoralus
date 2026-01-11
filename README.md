@@ -2,13 +2,9 @@
 
 ![Banner](https://galeria-drab.vercel.app/api/svg/banner/capa-10.svg)
 
-# 👋 Olá, eu sou o Ítalo!
+# Olá, eu sou o Ítalo
 
-**Desenvolvedor Full Stack** • **UI/UX Designer** • **DevOps**
-
-[![Email](https://img.shields.io/badge/Email-ossmoralus%40proton.me-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:ossmoralus@proton.me)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5537998553430)
-[![GitHub](https://img.shields.io/badge/GitHub-ossmoralus-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ossmoralus)
+**Desenvolvedor Full Stack** • **UI/UX** • **DevOps**
 
 ![Badge](https://galeria-drab.vercel.app/api/svg/badges/decorativos/badge-entusiasta.svg?w=180)
 ![Badge](https://galeria-drab.vercel.app/api/svg/badges/decorativos/badge-full-stack.svg?w=180)
@@ -17,22 +13,24 @@
 
 </div>
 
----
-
-## 🚀 Sobre Mim
-
-Tenho 27 anos, sou cristão e estou em constante aprendizado. Sou desenvolvedor Full Stack apaixonado por criar soluções que fazem diferença, seja no código, no design ou na experiência do usuário.
-
-Acredito que tecnologia é uma ferramenta poderosa para transformar ideias em realidade. Meu foco está em entregar projetos bem estruturados, com código limpo e interfaces que proporcionam uma experiência fluida.
-
-> 💭 **Minha filosofia:** *"Me imagino como se já tivesse alcançado meus objetivos. Assim, não importa onde eu esteja, sei que ainda não estou no lugar certo, porque já tenho um plano claro de onde quero chegar."*
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Sobre
+
+Sou desenvolvedor Full Stack com foco em construir produtos web bem estruturados, com código limpo, boa arquitetura e interfaces consistentes.
+
+Atuo do planejamento ao deploy, equilibrando performance, manutenção e experiência do usuário.
+
+Badges e SVGs para GitHub: https://moralus.org/galeria
+
+
+---
+
+## Stack
 
 <details open>
-<summary><strong>🎨 Frontend</strong></summary>
+<summary><strong>Frontend</strong></summary>
 <br>
 <div align="center">
 
@@ -49,7 +47,7 @@ Acredito que tecnologia é uma ferramenta poderosa para transformar ideias em re
 </details>
 
 <details open>
-<summary><strong>⚙️ Backend</strong></summary>
+<summary><strong>Backend</strong></summary>
 <br>
 <div align="center">
 
@@ -62,7 +60,7 @@ Acredito que tecnologia é uma ferramenta poderosa para transformar ideias em re
 </details>
 
 <details open>
-<summary><strong>🗄️ Banco de Dados</strong></summary>
+<summary><strong>Banco de Dados</strong></summary>
 <br>
 <div align="center">
 
@@ -76,7 +74,7 @@ Acredito que tecnologia é uma ferramenta poderosa para transformar ideias em re
 </details>
 
 <details open>
-<summary><strong>🔧 DevOps & Ferramentas</strong></summary>
+<summary><strong>DevOps & Ferramentas</strong></summary>
 <br>
 <div align="center">
 
@@ -127,8 +125,8 @@ Estou disponível para projetos freelance, parcerias e oportunidades de colabora
 
 ### 📬 Entre em contato!
 
-[![Email](https://img.shields.io/badge/Email-ossmoralus%40proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ossmoralus@proton.me)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+55%2037%2099855--3430-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5537998553430)
+[![Email](https://img.shields.io/badge/Email-companymoralus%44gmail.com-111827?style=flat-square&logo=gmail&logoColor=white)](mailto:companymoralus@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5537998553430)
 
 </div>
 
