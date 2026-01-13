@@ -22,9 +22,6 @@ Sou desenvolvedor Full Stack com foco em construir produtos web bem estruturados
 
 Atuo do planejamento ao deploy, equilibrando performance, manutenção e experiência do usuário.
 
-Badges e SVGs para GitHub: https://moralus.org/galeria
-
-
 ---
 
 ## Stack
