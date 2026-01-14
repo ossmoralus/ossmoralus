@@ -1,7 +1,5 @@
 <div align="center">
 
-![Banner](https://galeria-drab.vercel.app/api/svg/banner/capa-10.svg)
-
 # Olá, eu sou o Ítalo
 
 **Desenvolvedor Full Stack** • **UI/UX** • **DevOps**
