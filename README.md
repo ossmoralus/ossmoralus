@@ -120,7 +120,7 @@ Estou disponível para projetos freelance, parcerias e oportunidades de colabora
 
 ### 📬 Entre em contato!
   
-[![social/social-gmail.svg](https://moralus.org/api/svg/social/social-gmail.svg)](mailto:companymoralus@gmail.com)
+[![social/social-gmail.svg](https://moralus.org/api/svg/social/social-gmail.svg)](mailto:contato@moralus.org)
 [![social/social-whatsapp.svg](https://moralus.org/api/svg/social/social-whatsapp.svg)](https://wa.me/5537998553430)
 
 </div>
